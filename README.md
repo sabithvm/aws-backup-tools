@@ -1,4 +1,4 @@
-# This is a collection to tools to manage various management aspects of an AWS Backup setup.
+# This is a collection of tools that can used manage various aspects of an AWS Backup setup.
 
 Current Items
 
